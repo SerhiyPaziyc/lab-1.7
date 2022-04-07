@@ -1,0 +1,7 @@
+﻿  DigitString.cpp
+  Fraction.cpp
+  Source.cpp
+C:\Users\LENOVO\source\repos\OOP 1.7\Source.cpp(7,14): warning C4101: 'D': unreferenced local variable
+  Generating Code...
+C:\Users\LENOVO\source\repos\OOP 1.7\Fraction.cpp(21): warning C4715: 'Fraction::setY': not all control paths return a value
+  OOP 1.7.vcxproj -> C:\Users\LENOVO\source\repos\OOP 1.7\x64\Debug\OOP 1.7.exe
